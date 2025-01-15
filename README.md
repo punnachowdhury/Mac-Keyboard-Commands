@@ -3,7 +3,7 @@
 ---
 
 ## **Basic Navigation**
-- **Command (⌘) + Spacebar**: Open Spotlight Search.  
+- **Command (⌘) + Spacebar**: Open Spotlight Search. Used to look for apps such as Chrome, Excel, etc.
 - **Command (⌘) + Tab**: Switch between open applications.  
 - **Command (⌘) + H**: Hide the currently active window.  
 - **Command (⌘) + M**: Minimize the active window.  
